@@ -6,3 +6,10 @@ Lesson Materials(WIP):
   - Purely introductory; No code involved
   - Explanation of what AI is
   - Aims to show practical applications of AI
+  - Advantages/Disadvantages
+- Lesson 2: https://docs.google.com/presentation/d/1udkX7ZBSgCuP-59cQ6OCtVTYsEtrogGn--MJNOYog8w/edit?usp=sharing
+  - Explanation of Regression
+  - Application example
+  - Data preprocessing
+  - Actual code demonstration
+  
